@@ -58,7 +58,7 @@ hr {
 -----------------------------------------------------------------------------*/
 
 #container {
-	width: 945px;
+	width: 965px;
 	margin: 0 auto 0 auto;
 }
 
@@ -74,7 +74,7 @@ hr {
 
 #sidebar {
 	background: white;
-	width: 315px;
+	width: 335px;
 	padding: 30px;
 	box-shadow:inset 3px -3px #bbbbbb;
 }
